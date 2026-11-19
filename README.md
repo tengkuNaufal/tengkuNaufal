@@ -61,8 +61,7 @@ Building full-stack apps, geospatial tools, and AI-assisted systems.
 ### 🤝 Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-tengkuNaufal-181717?style=for-the-badge&logo=github)](https://github.com/tengkuNaufal)
-<!-- Ganti URL di bawah dengan link kamu sendiri -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tengkunaufal/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufal.saqib1@gmail.com)
 
 </div>
