@@ -27,8 +27,8 @@ Building full-stack apps, geospatial tools, and AI-assisted systems.
 |---|---|---|
 | [**Cogniva**](https://github.com/tengkuNaufal/Cogniva) | AI **"learning by teaching"** platform — you teach an AI learner on a whiteboard + voice, then get evaluated on your explanation. 🏆 *HACKaSTONE 2026 Grand Finalist (NTU Singapore), presented in Amsterdam* | React · TypeScript · Vite · FastAPI · LLM agents |
 | [**Hirup**](https://github.com/tengkuNaufal/Hirup) | Jakarta multimodal trip planner that ranks routes by **inhaled PM2.5 dose**, not just travel time | Flutter · FastAPI · OpenTripPlanner · OSRM · LightGBM · Azure |
-| [**Cek Dulu**](https://github.com/tengkuNaufal/KataMenangMauAwan) | AI agent that **fact-checks stock claims** from social media against official Sectors market data (*Sectors Hackathon 2026*) | Next.js · TypeScript · Supabase · Gemini |
-| [**MangroveMorph**](https://github.com/tengkuNaufal/Faiz-juara-hacketon) | Evidence-based **mangrove green-belt planning** for small islands — wave-reduction modeling & Pareto optimization (*IT Festival 2026 IPB*) | React · MapLibre · TypeScript · Python |
+| [**Cek Dulu**](https://github.com/tengkuNaufal/cek-dulu) | AI agent that **fact-checks stock claims** from social media against official Sectors market data (*Sectors Hackathon 2026*) | Next.js · TypeScript · Supabase · Gemini |
+| [**MangroveMorph**](https://github.com/tengkuNaufal/MangroveMorph) | Evidence-based **mangrove green-belt planning** for small islands — wave-reduction modeling & Pareto optimization (*IT Festival 2026 IPB*) | React · MapLibre · TypeScript · Python |
 | [**Novara**](https://github.com/tengkuNaufal/Novara) | Frame-by-frame **ball-possession detection** for football tracking data using a 3-state Viterbi decoder (*More than a Hack 2027*) | Python · NumPy · pandas |
 | [**Pemilu UKMR**](https://github.com/tengkuNaufal/pemilu_ukmr) | **E-voting system** used for the UKMR ITB 2025 leader election, with a live results dashboard | Express · PostgreSQL · Vercel |
 
