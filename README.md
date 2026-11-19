@@ -25,10 +25,12 @@ Building full-stack apps, geospatial tools, and AI-assisted systems.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Hirup**](https://github.com/Faizalfadaa/Hirup) | Jakarta multimodal trip planner that ranks routes by **inhaled PM2.5 dose**, not just travel time | Flutter · FastAPI · OpenTripPlanner · OSRM · LightGBM · Docker · Azure |
-| [**Novara**](https://github.com/tengkuNaufal/Novara) | Frame-by-frame **ball-possession detection** for football tracking data using a 3-state Viterbi decoder (*More than a Hack*) | Python · NumPy · pandas |
-| **Judol Detector** | Chrome extension detecting online-gambling content with KMP, Boyer-Moore, Aho-Corasick, Rabin-Karp & Levenshtein | TypeScript · Vite · Manifest V3 |
-| [**Matrix Calculator Web**](https://github.com/tengkuNaufal/matrix-calculator-web) | Linear-algebra calculator in the browser | JavaScript |
+| [**Cogniva**](https://github.com/tengkuNaufal/Cogniva) | AI **"learning by teaching"** platform — you teach an AI learner on a whiteboard + voice, then get evaluated on your explanation. 🏆 *HACKaSTONE 2026 Grand Finalist (NTU Singapore), presented in Amsterdam* | React · TypeScript · Vite · FastAPI · LLM agents |
+| [**Hirup**](https://github.com/tengkuNaufal/Hirup) | Jakarta multimodal trip planner that ranks routes by **inhaled PM2.5 dose**, not just travel time | Flutter · FastAPI · OpenTripPlanner · OSRM · LightGBM · Azure |
+| [**Cek Dulu**](https://github.com/tengkuNaufal/KataMenangMauAwan) | AI agent that **fact-checks stock claims** from social media against official Sectors market data (*Sectors Hackathon 2026*) | Next.js · TypeScript · Supabase · Gemini |
+| [**MangroveMorph**](https://github.com/tengkuNaufal/Faiz-juara-hacketon) | Evidence-based **mangrove green-belt planning** for small islands — wave-reduction modeling & Pareto optimization (*IT Festival 2026 IPB*) | React · MapLibre · TypeScript · Python |
+| [**Novara**](https://github.com/tengkuNaufal/Novara) | Frame-by-frame **ball-possession detection** for football tracking data using a 3-state Viterbi decoder (*More than a Hack 2027*) | Python · NumPy · pandas |
+| [**Pemilu UKMR**](https://github.com/tengkuNaufal/pemilu_ukmr) | **E-voting system** used for the UKMR ITB 2025 leader election, with a live results dashboard | Express · PostgreSQL · Vercel |
 
 ---
 
@@ -36,8 +38,8 @@ Building full-stack apps, geospatial tools, and AI-assisted systems.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,dart&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,fastapi,html,css,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,azure,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,flutter,fastapi,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,azure,vercel,git,linux&theme=dark" />
 </p>
 
 **Domains:** Full-stack web · Mobile · Databases & PostGIS · Data/ML (scikit-learn, LightGBM) · Compilers & networking (C++)
