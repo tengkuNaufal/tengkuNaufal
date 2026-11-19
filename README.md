@@ -50,7 +50,7 @@ Building full-stack apps, geospatial tools, and AI-assisted systems.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tengkuNaufal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuNaufal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuNaufal&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,makefile&size_weight=0.5&count_weight=0.5" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tengkuNaufal&theme=github-dark-blue&hide_border=true" />
